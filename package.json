@@ -1,7 +1,8 @@
 {
   "name": "rename-extensions",
   "displayName": "Rename Extensions",
-  "description": "",
+  "description": "Change The Extension Of Mutiple Files At Once.",
+  "icon": "images/LogoRenameExtensions.png",
   "publisher": "YounesHenni",
   "version": "0.0.3",
   "engines": {
