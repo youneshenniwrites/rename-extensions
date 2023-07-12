@@ -37,7 +37,7 @@ This extension does not provide any customizable settings.
 
 ## Contributing
 
-Contributions are welcome! If you have any bug reports, suggestions, or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/rename-extensions).
+Contributions are welcome! If you have any bug reports, suggestions, or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/youneshenniwrites/rename-extensions).
 
 ## License
 
