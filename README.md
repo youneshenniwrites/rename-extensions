@@ -2,6 +2,10 @@
 
 This is a Visual Studio Code extension that allows you to easily rename file extensions within a specified directory.
 
+https://github.com/youneshenniwrites/rename-extensions/assets/26605247/61c18b58-d439-4693-a01d-034b1a4e8648
+
+
+
 ## Features
 
 - Renames file extensions within a directory and its subdirectories.
