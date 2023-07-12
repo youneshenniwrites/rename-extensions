@@ -37,4 +37,4 @@ Contributions are welcome! If you have any bug reports, suggestions, or improvem
 
 ## License
 
-This extension is licensed under the [MIT License](LICENSE).
+This extension is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
