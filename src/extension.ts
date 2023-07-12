@@ -39,6 +39,8 @@ function renameFileExtensions(
               `Renamed: ${filename} -> ${newFilename}`
             );
           });
+        } else if (stats.isDirectory()) {
+          renameFileExtensions(filePath, targetExtension, replacementExtension); // Recursively process subdirectories
         }
       });
     });
